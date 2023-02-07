@@ -1,8 +1,2 @@
-# ignore all files ending with .log
-*.log
-
-
-# ignore the directory named "js"
-js/
-
+~
 
